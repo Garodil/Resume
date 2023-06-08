@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Release\Resume.exe.config
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Release\Resume.exe
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Release\Resume.pdb
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Release\ClassLibrary2.dll
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Release\ClassLibrary2.pdb
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.Form1.resources
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.csproj.CopyComplete
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.exe
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Release\Resume.pdb

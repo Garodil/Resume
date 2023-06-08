@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Resume\ClassLibrary2\bin\Release\ClassLibrary2.dll
+C:\Users\Admin\Documents\GitHub\Resume\ClassLibrary2\bin\Release\ClassLibrary2.pdb
+C:\Users\Admin\Documents\GitHub\Resume\ClassLibrary2\obj\Release\ClassLibrary2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Resume\ClassLibrary2\obj\Release\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Resume\ClassLibrary2\obj\Release\ClassLibrary2.dll
+C:\Users\Admin\Documents\GitHub\Resume\ClassLibrary2\obj\Release\ClassLibrary2.pdb

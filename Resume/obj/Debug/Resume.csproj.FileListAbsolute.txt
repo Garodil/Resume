@@ -9,3 +9,6 @@ C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.csproj.GenerateRe
 C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.exe
 C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.pdb
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Debug\ClassLibrary2.dll
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Debug\ClassLibrary2.pdb
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.csproj.CopyComplete
