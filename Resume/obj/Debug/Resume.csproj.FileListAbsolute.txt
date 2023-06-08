@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Debug\Resume.exe.config
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Debug\Resume.exe
+C:\Users\Admin\Documents\GitHub\Resume\Resume\bin\Debug\Resume.pdb
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.Form1.resources
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.exe
+C:\Users\Admin\Documents\GitHub\Resume\Resume\obj\Debug\Resume.pdb
