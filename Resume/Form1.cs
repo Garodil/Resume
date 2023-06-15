@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static ClassLibrary2.Library;
+using ClassLibrary2;
 
 namespace Resume
 {
@@ -21,34 +21,18 @@ namespace Resume
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (String.IsNullOrEmpty(textBox1.Text) | String.IsNullOrEmpty(textBox2.Text) | String.IsNullOrEmpty(textBox3.Text))
-            {
-                label2.Text = "Введите числа в поля";
-                
-            }
-            else
-            {
-                string astr = textBox1.Text;
-                string bstr = textBox2.Text;
-                string cstr = textBox3.Text;
-                label2.Text = TriangleSolver(astr, bstr, cstr);
-                
-            }
+            string astr = textBox1.Text;
+            string bstr = textBox2.Text;
+            string cstr = textBox3.Text;
 
-
-
+            Figure triangle = new Figure(astr, bstr, cstr);
+            label2.Text = triangle.FigureSolver();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (String.IsNullOrEmpty(textBox4.Text))
-            {
-                label4.Text = "Введите число в поле";
-            }
-            else
-            {
-                label4.Text = RoundSolver(textBox4.Text);
-            }
+            Figure round = new Figure(textBox4.Text);
+            label4.Text = round.FigureSolver();
         }
 
     }
